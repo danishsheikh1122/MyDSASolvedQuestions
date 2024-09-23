@@ -16,6 +16,27 @@ class Solution(object):
         #     n[i]=new_li[i]
 
 
+        # in this approach we used while loop to reverse 
+
+        # count_zeros=0
+        # move_backward=0
+
+        # for i in range(len(n)):
+        #     if n[i]!=0:
+        #         n[move_backward]=n[i]
+        #         move_backward+=1
+        #     else:
+        #         count_zeros+=1
+        # k=move_backward-1      
+        # i=len(n)-1
+        # while k!=i:
+        #     n[i]=0
+        #     i-=1
+        # print(n)
+
+        # in this approach we use efficient approach
+
+
         count_zeros=0
         move_backward=0
 
@@ -25,9 +46,5 @@ class Solution(object):
                 move_backward+=1
             else:
                 count_zeros+=1
-        k=move_backward-1      
-        i=len(n)-1
-        while k!=i:
+        for i in range(move_backward,move_backward+count_zeros):
             n[i]=0
-            i-=1
-        print(n)
