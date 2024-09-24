@@ -4,18 +4,24 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
+        # TLE
         # # for i in nums:
         # #     if(nums.count(i)>=2):
         # #         return True
         # # return False
-        # table_len=abs(min(nums))+max(nums)
-        # print(table_len)
-        # hash_t=[0]*(table_len)
-        # print(table_len,hash_t)
-        nums.sort()
-        start=nums[0]
+        # ------------------------------------------ 
+        # nums.sort()
+        # start=nums[0]
 
-        for i in range(1,len(nums)):
-            if(nums[i]==nums[i-1]):
-                return True
-        return False
+        # for i in range(1,len(nums)):
+        #     if(nums[i]==nums[i-1]):
+        #         return True
+        # return False
+        # another approach with 
+        a=len(nums)
+        nums=set(nums)
+        print(nums)
+        if(len(nums)<a):
+            return True
+        else:
+            return False
