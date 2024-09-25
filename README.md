@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
+| [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
+| [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
+| [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
