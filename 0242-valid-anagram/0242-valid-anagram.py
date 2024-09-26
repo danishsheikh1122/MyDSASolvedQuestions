@@ -28,16 +28,29 @@ class Solution(object):
 
         # ---------------------------------------------------
         # 2 approach   
-        s=sorted(s)
-        t=sorted(t)
-        # print(s,t)
+        # s=sorted(s)
+        # t=sorted(t)
+        # # print(s,t)
+        # if(len(s)!=len(t)):
+        #     return False
+        # for i in range(len(s)):
+        #     if s[i]==t[i]:
+        #         continue
+        #     else:
+        #         return False
+        # return True
+
+        # not as fast as previous one
+        # Tc-ON Sc-ON
+
+        # -----------------------------------
+        # another fast approach
+        from collections import Counter
+
         if(len(s)!=len(t)):
             return False
-        for i in range(len(s)):
-            if s[i]==t[i]:
-                continue
-            else:
-                return False
-        return True
+        s=Counter(s)
+        t=Counter(t)    
 
-        
+        if s==t:
+            return True    
