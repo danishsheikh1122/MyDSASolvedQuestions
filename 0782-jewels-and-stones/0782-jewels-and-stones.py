@@ -8,6 +8,7 @@ class Solution(object):
         and then store it in dict key=key and value =count
 
         """
+        # my own solution 
         di={}
         for char in jewels:
             di[char]=0
@@ -21,3 +22,5 @@ class Solution(object):
             res+=value
     
         return res
+
+        # tc&sc->o(n+m)
