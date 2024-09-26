@@ -29,10 +29,22 @@ class Solution(object):
         #     return False
         # --------------------------------
         # another approach with hash maps
-        di={}
-        for i in nums:
-            di[i]=di[i]+1 if i in di else 1
-        for key,values in di.items():
-            if(values>1):
+        # di={}
+        # for i in nums:
+        #     di[i]=di[i]+1 if i in di else 1
+        # for key,values in di.items():
+        #     if(values>1):
+        #         return True
+        # return False
+
+        # best above 
+        # TC=O(n)
+        # Sc=O(n)
+
+        h=set()
+        for num in nums:
+            if num in h:
                 return True
+            else:
+                h.add(num)
         return False
