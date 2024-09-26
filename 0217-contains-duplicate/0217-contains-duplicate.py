@@ -10,6 +10,7 @@ class Solution(object):
         # #         return True
         # # return False
         # ------------------------------------------ 
+        # another approach
         # nums.sort()
         # start=nums[0]
 
@@ -17,11 +18,21 @@ class Solution(object):
         #     if(nums[i]==nums[i-1]):
         #         return True
         # return False
+        # --------------------------------
         # another approach with 
-        a=len(nums)
-        nums=set(nums)
-        print(nums)
-        if(len(nums)<a):
-            return True
-        else:
-            return False
+        # a=len(nums)
+        # nums=set(nums)
+        # print(nums)
+        # if(len(nums)<a):
+        #     return True
+        # else:
+        #     return False
+        # --------------------------------
+        # another approach with hash maps
+        di={}
+        for i in nums:
+            di[i]=di[i]+1 if i in di else 1
+        for key,values in di.items():
+            if(values>1):
+                return True
+        return False
