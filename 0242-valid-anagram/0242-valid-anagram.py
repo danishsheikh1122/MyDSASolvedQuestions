@@ -8,18 +8,18 @@ class Solution(object):
         present or not 
         """
         counter={}
-        # for char in s:
-        #     counter[char]=counter[char]+1 if char in counter else 1
-        # if len(s)!=len(t):
-        #     return False
-        # for char in t:
-        #     if char not in counter:
-        #         return False
-        #     elif counter[char]==1:
-        #         del counter[char]
-        #     else:
-        #         counter[char]-=1
-        # return True
+        for char in s:
+            counter[char]=counter[char]+1 if char in counter else 1
+        if len(s)!=len(t):
+            return False
+        for char in t:
+            if char not in counter:
+                return False
+            elif counter[char]==1:
+                del counter[char]
+            else:
+                counter[char]-=1
+        return True
 
         #Tc-ON
         #Sc-ON
@@ -45,12 +45,15 @@ class Solution(object):
 
         # -----------------------------------
         # another fast approach
-        from collections import Counter
+        # from collections import Counter
 
-        if(len(s)!=len(t)):
-            return False
-        s=Counter(s)
-        t=Counter(t)    
+        # if(len(s)!=len(t)):
+        #     return False
+        # s=Counter(s)
+        # t=Counter(t)    
 
-        if s==t:
-            return True    
+        # if s==t:
+        #     return True    
+        # tc-on sc-on
+
+        #  first soultion is best
