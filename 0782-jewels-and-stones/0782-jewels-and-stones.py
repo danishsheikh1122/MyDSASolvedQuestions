@@ -9,18 +9,25 @@ class Solution(object):
 
         """
         # my own solution 
-        di={}
-        for char in jewels:
-            di[char]=0
+        # di={}
+        # for char in jewels:
+        #     di[char]=0
 
-        for char in stones:
-            if char in di:
-                di[char]+=1   
-        res=0
+        # for char in stones:
+        #     if char in di:
+        #         di[char]+=1   
+        # res=0
 
-        for key,value in di.items():
-            res+=value
+        # for key,value in di.items():
+        #     res+=value
     
-        return res
+        # return res
 
         # tc&sc->o(n+m)
+
+        res=0
+        for char in stones:
+            if char in jewels:
+                res+=1
+        return res
+
