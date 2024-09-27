@@ -6,15 +6,15 @@ class Solution(object):
         :rtype: List[int]
         create one dict for n1 and check i nums2 is present or ot 
         """
-        from collections import Counter
-        counter=Counter(nums1)
-        print(counter)
-        li=[]
+        # from collections import Counter
+        # counter=Counter(nums1)
+        # print(counter)
+        # li=[]
 
-        for key,value in counter.items():# new key per itr so no redundancy
-            if key in nums2:
-                li.append(key)
-        return li
+        # for key,value in counter.items():# new key per itr so no redundancy
+        #     if key in nums2:
+        #         li.append(key)
+        # return li
 
 
 
@@ -23,11 +23,11 @@ class Solution(object):
         # but more optimal solution is also there
         #------------------------------ using set()
 
-        # n1=set(nums1)
-        # n2=set(nums2)
+        n1=set(nums1)
+        n2=set(nums2)
 
-        # # print(n1&n2)
-        # return n1&n2
+        # print(n1&n2)
+        return n1&n2
         # not that optimal as previous one 
         # tc-O(1)
         # sc-O(n)
