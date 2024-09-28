@@ -17,7 +17,8 @@ class Solution(object):
         # -----------------------------------------------------
 
         # just keep 2 vars max_p and min_index
-
+        if len(p) ==0:
+            return 0
         max_p=0
         min_index=float('inf')#infinity
 
