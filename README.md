@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
