@@ -25,6 +25,8 @@ class Solution(object):
                 row+=3
             l=len(w)
             i=0
+            # ------------------------
+            # without using inbuilt functions
             # for char in w:
             #     # print(row)
             #     if char in di[row]:
@@ -32,6 +34,8 @@ class Solution(object):
             #     if(i == l):
             #         # print(i,l)
             #         res_li.append(words[index])
+            # ------------------------------
+            # with using in built functions
             if all(char in di[row] for char in w):
                 res_li.append(words[index])
 
