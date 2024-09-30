@@ -12,11 +12,11 @@ class Solution(object):
             return s
 
         # to create a matrix 
-        m=[[] for _ in range(r) ]
         # this will create empty matrix
 
         i=0
         d=1
+        m=[[] for _ in range(r) ]
 
         for c in s:
             m[i].append(c)
@@ -25,10 +25,10 @@ class Solution(object):
             elif i==r-1:
                 d=-1
             i+=d
-        print(m)
+        # print(m)
 
         s=""
         for chars in m:
             s+=''.join(chars)
-        print(s)
+        # print(s)
         return s
