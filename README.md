@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
+| [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
+| [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
@@ -87,6 +89,7 @@
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
+| [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
