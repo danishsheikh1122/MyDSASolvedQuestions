@@ -26,13 +26,16 @@ class Solution(object):
             l=len(w)
             i=0
             for char in w:
-                print(row)
+                # print(row)
                 if char in di[row]:
                     i+=1
                 if(i == l):
+                    # print(i,l)
                     res_li.append(words[index])
 
             index+=1
 
         # print(res_li)
         return res_li
+        # TC ON2 or O n * k
+        # SC ON
