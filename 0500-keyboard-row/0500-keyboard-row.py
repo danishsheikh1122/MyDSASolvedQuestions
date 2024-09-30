@@ -25,13 +25,15 @@ class Solution(object):
                 row+=3
             l=len(w)
             i=0
-            for char in w:
-                # print(row)
-                if char in di[row]:
-                    i+=1
-                if(i == l):
-                    # print(i,l)
-                    res_li.append(words[index])
+            # for char in w:
+            #     # print(row)
+            #     if char in di[row]:
+            #         i+=1
+            #     if(i == l):
+            #         # print(i,l)
+            #         res_li.append(words[index])
+            if all(char in di[row] for char in w):
+                res_li.append(words[index])
 
             index+=1
 
@@ -39,3 +41,4 @@ class Solution(object):
         return res_li
         # TC ON2 or O n * k
         # SC ON
+        # beats 89 tms and 99 on s
