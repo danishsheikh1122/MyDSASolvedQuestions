@@ -21,6 +21,7 @@
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
+| [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
+| [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
@@ -87,6 +89,7 @@
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
+| [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## String
@@ -98,6 +101,7 @@
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
+| [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
