@@ -115,25 +115,38 @@ class Solution(object):
         
 
 
-
+not working
         '''
+# 2ptr approach
+        # l=0#left
+        # c=0#center
+        # r=len(nums)-1#right
 
-        l=0
-        c=0
-        r=len(nums)-1
-
-        while c<r:
-            if nums[c]==0:
-                nums[c],nums[l]=nums[l],nums[c]
-                l+=1
-                c+=1
-            elif nums[c]==1:
-                c+=1
-            else:#if nums[l]==2
-                nums[c],nums[r]=nums[r],nums[c]
-                r-=1
+        # while c<=r:
+        #     if nums[c]==0:
+        #         nums[c],nums[l]=nums[l],nums[c]
+        #         l+=1
+        #         c+=1
+        #     elif nums[c]==1:
+        #         c+=1
+        #     else:#if nums[l]==2
+        #         nums[c],nums[r]=nums[r],nums[c]
+        #         r-=1
             
+        # ------------------------------------------
+        # counting new approach
 
+        t_rwb=[0,0,0]
+        for i in nums:
+            t_rwb[i]+=1
+        
+
+        r,w,b=t_rwb
+
+        nums[:r]=[0]*r
+        nums[r:r+w]=[1]*w
+        nums[r+w:]=[2]*b
+        print(nums)
 
 
 
