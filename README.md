@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
