@@ -32,8 +32,8 @@ class Solution:
                 for column in range(j,j+3):
                     if board[row][column] in sett :
                         return False
-                    elif board[row][column] not in ".":
-                    # elif board[row][column] is not ".":
+                    # elif board[row][column] not in ".":
+                    elif board[row][column] is not ".":
                         sett.add(board[row][column])
 
 
