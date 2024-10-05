@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Matrix
@@ -126,5 +128,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
