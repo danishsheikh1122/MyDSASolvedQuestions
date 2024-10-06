@@ -21,17 +21,27 @@ class Solution(object):
 
         # Tc-On and Sc-On and runs in 22 beats 91%
         # but more optimal solution is also there
-        #------------------------------ using set()
+        #------------------------------
+        #  using set()
 
-        n1=set(nums1)
-        n2=set(nums2)
+        # n1=set(nums1)
+        # n2=set(nums2)
 
-        # print(n1&n2)
-        return n1&n2
+        # # print(n1&n2)
+        # return n1&n2
         # not that optimal as previous one 
         # tc-O(1)
         # sc-O(n)
         # runtime 32 ms beats 55
         # so above wala aacha hai 
 
-        
+        #------------------------------ 
+        # another approach
+
+        li=set(nums1)
+        res_li=[]
+        for i in nums2:
+            if i in li and i not in res_li:
+                res_li.append(i)
+        return res_li
+    
