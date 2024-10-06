@@ -12,4 +12,6 @@ class Solution(object):
             res_xor^=i
         return res_xor
 
+
+
         
