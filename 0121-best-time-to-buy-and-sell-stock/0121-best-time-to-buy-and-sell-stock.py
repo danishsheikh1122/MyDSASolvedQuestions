@@ -30,7 +30,8 @@ class Solution(object):
         # return max_p   
         # if len(p) ==0:
             # return 0
-
+        #-------------------------------------------------- 
+        # this is DP -approach
         max_p=0
         cur_min_val=p[0]
 
