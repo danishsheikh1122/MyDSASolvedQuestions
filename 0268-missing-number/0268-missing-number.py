@@ -43,10 +43,21 @@ class Solution(object):
         #             return i
 
 
-# -------------------------------------
-# using a formula to calc sum as
-# sum of n numbers = (n(n+1))/2
-        lenn=len(n)
-        res=(lenn*(lenn+1)) // 2
-        summ=sum(n)
-        return res-summ
+        # -------------------------------------
+        # using a formula to calc sum as
+        # sum of n numbers = (n(n+1))/2
+        # lenn=len(n)
+        # res=(lenn*(lenn+1)) // 2
+        # summ=sum(n)
+        # return res-summ
+        # -------------------------------------
+        
+
+        xor1=xor2=0
+
+        for i in range(0,len(n)):
+            xor1^=n[i]
+            xor2^=i+1
+        return xor1^xor2
+
+
