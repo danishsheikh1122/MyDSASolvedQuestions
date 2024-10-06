@@ -92,8 +92,11 @@ class Solution(object):
         n[0:temp_len] = []
         print(n)
         # Append the stored elements to the end
-        n.extend(temp)
-        print(n)
+        # n.extend(temp)
+        # print(n)
+
+        for i in temp:
+            n.append(i)
 
 
         
