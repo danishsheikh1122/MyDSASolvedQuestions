@@ -45,4 +45,7 @@ class Solution(object):
                 res_li[neg]=i
                 neg+=2
         # print(res_li)
-        return res_li
+        return res_li   
+        # most optimal 
+        # one pass and tc-on sc on
+        # beats 96.81 and 57.14 on runtmie and space resp
