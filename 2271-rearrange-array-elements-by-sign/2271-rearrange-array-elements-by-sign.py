@@ -22,9 +22,27 @@ class Solution(object):
         # same approach but kind of in place
 
 
-        pos=[x for x in nums if x>=0]
-        neg=[x for x in nums if x<0]
-        for i in range(0,len(nums)/2):
-            nums[i*2]=pos[i]
-            nums[i*2+1]=neg[i]
-        return nums
+        # pos=[x for x in nums if x>=0]
+        # neg=[x for x in nums if x<0]
+        # for i in range(0,len(nums)/2):
+        #     nums[i*2]=pos[i]
+        #     nums[i*2+1]=neg[i]
+        # return nums
+        # tc-on sc-on
+
+        # this takes 2 pass as using 2 loops make it in one pass and sc=on
+
+        # -----------------------------------
+        # one pass ,tc and sc=on most optimal
+        pos=0
+        neg=1
+        res_li=[0]*len(nums)
+        for i in nums:
+            if i >=0:
+                res_li[pos]=i
+                pos+=2
+            else:# i >=0:
+                res_li[neg]=i
+                neg+=2
+        # print(res_li)
+        return res_li
