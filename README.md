@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -117,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
