@@ -51,7 +51,7 @@ class Solution(object):
         # summ=sum(n)
         # return res-summ
         # -------------------------------------
-        
+        # bit manipulation approach
 
         xor1=xor2=0
 
