@@ -17,15 +17,25 @@ class Solution(object):
         # -----------------------------------------------------
 
         # just keep 2 vars max_p and min_index_value
-        if len(p) ==0:
-            return 0
+        # if len(p) ==0:
+        #     return 0
+        # max_p=0
+        # min_index_value=p[0]
+
+        # for i in p:
+        #     if i<min_index_value:
+        #         min_index_value=i
+        #     max_p=max(abs(min_index_value-i),max_p)
+        # # print(max_p) 
+        # return max_p   
+        # if len(p) ==0:
+            # return 0
+
         max_p=0
-        min_index_value=p[0]
+        cur_min_val=p[0]
 
-        for i in p:
-            if i<min_index_value:
-                min_index_value=i
-            max_p=max(abs(min_index_value-i),max_p)
-        # print(max_p) 
-        return max_p   
-
+        for i in p :
+            curr_p=i-cur_min_val
+            max_p=max(max_p,curr_p)
+            cur_min_val=min(cur_min_val,i)
+        return max_p
