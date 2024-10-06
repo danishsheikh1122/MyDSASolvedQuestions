@@ -16,16 +16,16 @@ class Solution(object):
         # return max_p
         # -----------------------------------------------------
 
-        # just keep 2 vars max_p and min_index
+        # just keep 2 vars max_p and min_index_value
         if len(p) ==0:
             return 0
         max_p=0
-        min_index=float('inf')#infinity
+        min_index_value=p[0]
 
         for i in p:
-            if i<min_index:
-                min_index=i
-            max_p=max(abs(min_index-i),max_p)
+            if i<min_index_value:
+                min_index_value=i
+            max_p=max(abs(min_index_value-i),max_p)
         # print(max_p) 
         return max_p   
 
