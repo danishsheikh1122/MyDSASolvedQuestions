@@ -27,6 +27,7 @@
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -145,4 +147,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
