@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0118-pascals-triangle) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
