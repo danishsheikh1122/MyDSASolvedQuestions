@@ -14,3 +14,10 @@ class Solution(object):
         for key,value in di.items():
             if value==1:
                 return key
+        # TC-On-pass 
+        # SC-on
+        # ------------------------------------
+        # Better solution 
+        for i in nums:
+            if nums.count(i)==1:
+                return i
