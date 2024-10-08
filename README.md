@@ -18,6 +18,7 @@
 | [0119-pascals-triangle-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
