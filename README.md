@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Matrix
