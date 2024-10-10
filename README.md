@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
@@ -162,4 +164,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
