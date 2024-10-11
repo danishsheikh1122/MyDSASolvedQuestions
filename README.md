@@ -32,6 +32,7 @@
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
+| [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,4 +170,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
