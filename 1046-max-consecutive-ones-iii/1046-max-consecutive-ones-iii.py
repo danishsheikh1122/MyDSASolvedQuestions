@@ -9,16 +9,32 @@ class Solution(object):
         
 
         # sliding window
-        l=r=max_len=no_zeros=0
+        # l=r=max_len=no_zeros=0
+
+        # while r<len(nums):
+        #     if nums[r]==0:
+        #         no_zeros+=1
+        #     while no_zeros>k:
+        #         if nums[l]==0:
+        #             no_zeros-=1
+        #         l+=1
+        #     if no_zeros<=k:
+        #         max_len=max(max_len,r-l+1)
+        #     r+=1
+        # return max_len
+        # tc-2on still we can make it more optimal
+        # --------------------------------------
+
+        l=r=max_len=zero=0
 
         while r<len(nums):
             if nums[r]==0:
-                no_zeros+=1
-            while no_zeros>k:
+                zero+=1
+            if zero>k:
                 if nums[l]==0:
-                    no_zeros-=1
+                    zero-=1
                 l+=1
-            if no_zeros<=k:
+            if zero<=k:
                 max_len=max(max_len,r-l+1)
             r+=1
         return max_len
