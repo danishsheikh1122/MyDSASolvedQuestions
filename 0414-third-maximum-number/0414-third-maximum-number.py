@@ -30,7 +30,5 @@ class Solution(object):
         nums=list(set(nums))
         nums.sort()
         if len(nums)>=3:
-            print(nums[-3])
             return nums[-3]
-
         return max(nums)
