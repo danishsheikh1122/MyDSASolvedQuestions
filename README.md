@@ -73,6 +73,7 @@
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -133,6 +134,7 @@
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
@@ -148,6 +150,7 @@
 | [0118-pascals-triangle](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
