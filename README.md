@@ -142,6 +142,7 @@
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
+| [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
