@@ -28,4 +28,3 @@ class Solution(object):
             x=target-nums[i]
             if x in di and di[x]!=i:
                 return [i,di[x]]
-
