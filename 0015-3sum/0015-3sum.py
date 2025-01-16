@@ -1,25 +1,10 @@
 class Solution(object):
     def threeSum(self, n):
         """
-        :type n: List[int]
+        :type nums: List[int]
         :rtype: List[List[int]]
         """
-        # brute force
-        # res = set()
-
-
-        # for i in range(len(n)):
-        #     for j in range(i + 1, len(n)):
-        #         for k in range(j + 1, len(n)):
-        #             if n[i] + n[j] + n[k] == 0:
-        #                 li = tuple(sorted([n[i], n[j], n[k]]))
-        #                 res.add(li)
-
-        # return res
-
-        # ------------------------------------------------
-        # Using 2 ptr approach most optimal one 
-
+        
         # i is normal ptr and j,k is l anr r resp
         n.sort()
         res=set()
@@ -48,6 +33,5 @@ class Solution(object):
                 else:
                     r-=1
         return list(res)
-
 
 
