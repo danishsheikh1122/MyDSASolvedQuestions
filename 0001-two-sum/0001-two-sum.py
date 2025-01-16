@@ -30,8 +30,3 @@ class Solution(object):
                 return [i,di[x]]
 
 
-            
-            
-
-
-
