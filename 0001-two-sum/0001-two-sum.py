@@ -29,4 +29,3 @@ class Solution(object):
             if x in di and di[x]!=i:
                 return [i,di[x]]
 
-
