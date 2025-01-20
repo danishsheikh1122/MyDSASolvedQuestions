@@ -73,6 +73,7 @@
 | [0015-3sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
