@@ -1,3 +1,4 @@
+
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """
@@ -33,6 +34,5 @@ class Solution(object):
             r+=1
         print(di,max_len)
         return max_len
-
 
 
