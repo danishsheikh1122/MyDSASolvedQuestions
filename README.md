@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
@@ -57,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
@@ -81,6 +83,7 @@
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -97,6 +100,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -119,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
