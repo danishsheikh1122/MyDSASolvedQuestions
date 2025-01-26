@@ -36,4 +36,3 @@ class Solution(object):
                 di[n]-=1
         return n1
 
-
