@@ -1,5 +1,9 @@
-class Solution:
-    def firstMissingPositive(self, nums: List[int]) -> int:
+class Solution(object):
+    def firstMissingPositive(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         nums = [n for n in nums if n > 0]
         nums.sort()
 
