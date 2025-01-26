@@ -61,6 +61,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
@@ -125,6 +126,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -138,6 +140,7 @@
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
@@ -152,6 +155,7 @@
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
@@ -212,4 +216,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
