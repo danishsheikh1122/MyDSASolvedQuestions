@@ -10,6 +10,7 @@ class Solution(object):
         # 0010&0001 ->1&1=1 else answer will be 0
         if n==0:
             return False
+        # n==0 is the edge case
         res=True if  (n & (n-1) ) ==0  else False
         return res
 
