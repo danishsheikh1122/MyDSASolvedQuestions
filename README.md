@@ -96,6 +96,7 @@
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -111,6 +112,7 @@
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -185,6 +187,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
