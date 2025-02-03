@@ -96,6 +96,7 @@
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0137-single-number-ii) |
@@ -159,6 +161,7 @@
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
@@ -207,6 +210,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
