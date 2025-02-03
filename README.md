@@ -95,6 +95,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
@@ -190,6 +191,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Memoization
