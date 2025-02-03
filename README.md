@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
@@ -85,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
@@ -119,6 +122,7 @@
 | [0191-number-of-1-bits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
