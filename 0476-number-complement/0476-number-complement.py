@@ -4,7 +4,7 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        # just brute force
+        # just brute force worst solution
         li=[]
         while num:
             if (num&1):
