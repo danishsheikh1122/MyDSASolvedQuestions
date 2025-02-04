@@ -166,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0205-isomorphic-strings) |
@@ -212,6 +213,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
