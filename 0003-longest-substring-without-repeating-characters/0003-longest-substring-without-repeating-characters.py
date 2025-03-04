@@ -20,19 +20,40 @@ class Solution(object):
         # -----------------------------------------
         # sliding window approach 
 
-        max_len=l=r=0
+        # max_len=l=r=0
+        # di={}
+
+        # while r<len(s):
+
+        #     if s[r] in di:
+        #         if di[s[r]]>=l:
+        #             l=di[s[r]]+1
+            
+        #     max_len=max(max_len,r-l+1)
+        #     di[s[r]]=r
+        #     r+=1
+        # # print(di,max_len)
+        # return max_len
+
+
+
+
+        #same revision 
+        m=l=r=0
         di={}
-
         while r<len(s):
-
             if s[r] in di:
                 if di[s[r]]>=l:
                     l=di[s[r]]+1
-            
-            max_len=max(max_len,r-l+1)
+            m=max(m,r-l+1)
             di[s[r]]=r
             r+=1
-        print(di,max_len)
-        return max_len
+
+        return m
+
+
+
+
+
 
 
