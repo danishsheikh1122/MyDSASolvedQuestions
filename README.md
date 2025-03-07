@@ -42,6 +42,7 @@
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
@@ -234,10 +235,12 @@
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
