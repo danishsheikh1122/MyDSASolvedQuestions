@@ -1,22 +1,19 @@
 class Solution(object):
     def maxScore(self, li, k):
         """
-        :type cardPoints: List[int]
+        :type li: List[int]
         :type k: int
         :rtype: int
         """
-        lsum=sum(li[:k])
-        rsum=0
+        left_sum=sum(li[:k])
+        right_sum=0
         end_index=len(li)-1
-
-        max_sum=lsum
+        max_sum=left_sum
 
         for i in range(k-1,-1,-1):
-            # print(i,end_index)
-            print(lsum,rsum)
-            lsum-=li[i]
-            rsum+=li[end_index]
+                           #will run till 0 and -1 in every iteration
+            left_sum-=li[i] 
+            right_sum+=li[end_index]
+            max_sum=max(max_sum,left_sum+right_sum)
             end_index-=1
-
-            max_sum=max(max_sum,lsum+rsum)
         return max_sum
