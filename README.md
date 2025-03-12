@@ -36,6 +36,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
@@ -66,6 +67,7 @@
 | [0383-ransom-note](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
@@ -222,6 +224,7 @@
 | [0020-valid-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
@@ -273,4 +276,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
