@@ -5,6 +5,7 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+        # good solution 
         di={}
         li=[]
         for i in range(len(nums2)):
