@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
@@ -225,6 +226,7 @@
 | [0225-implement-stack-using-queues](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
@@ -280,4 +282,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
