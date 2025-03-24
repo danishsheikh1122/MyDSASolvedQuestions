@@ -5,27 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        # -------------------------------
-        # slow solution
-
-        #   l=0
-        # n=len(nums)-1
-        # r=n
-
-        # while l!=n:
-        #     if nums[l]+nums[r]==target:
-        #         return [l,r]
-        #     elif l+1==r:
-        #         l+=1
-        #         r=n
-        #     else:
-        #         r-=1
-        # ---------------------------------
-        di={}
-        for i in range(len(nums)):
-            di[nums[i]]=i
-        for i in range(len(nums)):
-            x=target-nums[i]
-            if x in di and di[x]!=i:
-                return [i,di[x]]
-   
+        num_map = {}
+        for index, num in enumerate(nums):
+            complement = target - num
+            if complement in num_map:
+                return [num_map[complement], index]
+            num_map[num] = index
+        return None
