@@ -1,17 +1,21 @@
 class Solution(object):
-    def findClosestNumber(self, n):
+    def findClosestNumber(self, nums):
         """
-        :type n: List[int]
+        :type nums: List[int]
         :rtype: int
-
         """
-        min_v=n[0]
-        for num in n:
-            if abs(num)<abs(min_v):
-                min_v=num
-            elif abs(num)==abs(min_v):
-                min_v=max(min_v,num)
-        return min_v
-
-        
-        
+        # closest_num=nums[0]
+        # for n in nums:
+        #     if abs(n)<abs(closest_num):
+        #         closest_num=n
+        # if closest_num < 0 and abs(closest_num) in nums:
+        #     return abs(closest_num)
+        # return closest_num
+        max_number=nums[0]
+        for i in nums:
+            if abs(i)<abs(max_number):
+                max_number=i
+        if max_number<0 and abs(max_number) in nums:
+                return abs(max_number)
+        else:
+                return max_number 
