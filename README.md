@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -252,6 +253,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
