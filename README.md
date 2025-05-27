@@ -176,6 +176,7 @@
 | [0005-longest-palindromic-substring](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
@@ -288,4 +289,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
