@@ -1,36 +1,15 @@
 class Solution(object):
-    def rotate(self, m):
+    def rotate(self, matrix):
         """
-        :type m: List[List[int]]
-        :rtype: None Do not return anything, modify m in-place instead.
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        # Brute force on2+extra space
-        # li=[[0 for i in range(len(m[0]))] for x in range(len(m))]
-        # for i in range(len(m)):
-        #     for j in range(len(m)):
-        #         li[j][i-len(m)-1]=m[i][j]
+        n = len(matrix)
+        # Transpose the matrix
+        for i in range(n):
+            for j in range(i + 1, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+        # Reverse each row
+        for row in matrix:
+            row.reverse()
         
-        # print(li)
-        # wrong
-        # ----------------------------------
-
-        for i in range(0,len(m)):
-            # here we are using i,len(m) to just traverse top half portion of the arrat 
-            for j in range(i,len(m)):
-                print(i,j)
-                temp=m[i][j]
-                m[i][j]=m[j][i]
-                m[j][i]=temp
-                
-                # if i==j:
-                #     continue
-                # else:
-                #     temp=m[i][j]
-                #     m[j][i]=temp
-                #     m[j][i]=m[i][j]
-        print(m)
-        for i in range(len(m)):
-            m[i].reverse()
-
-
-
