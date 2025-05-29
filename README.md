@@ -14,6 +14,7 @@
 | [0041-first-missing-positive](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0078-subsets) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0054-spiral-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Recursion
 |  |
@@ -239,6 +241,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
