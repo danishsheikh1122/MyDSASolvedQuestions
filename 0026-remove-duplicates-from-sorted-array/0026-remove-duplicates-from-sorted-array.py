@@ -4,24 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # brute force approach using extra space
-        new_arr=[]
-        for num in nums:
-            if num not in new_arr:
-                new_arr.append(num)
-        for i in range(len(new_arr)):
-            nums[i]=new_arr[i]
+        # brute force approach using extra space remember to return lenght
+        # new_arr=[]
+        # for num in nums:
+        #     if num not in new_arr:
+        #         new_arr.append(num)
+        # for i in range(len(new_arr)):
+        #     nums[i]=new_arr[i]
             
-        return len(new_arr)
+        # return len(new_arr)
         
         
         # # optimal using two pointers  
-        # l=1 
-        # r=l+1
-        # while r<=len(nums):
-        #     if nums[r]!=nums[l]:
-        #         nums[l]=nums[r]
-        #         l+=1
-        #     r+=1
-        # return l
+        l=0
+        for r in range(len(nums)):
+            if nums[l]!=nums[r]:
+                nums[l+1]=nums[r]
+                l+=1
+        return l+1
+        
         
