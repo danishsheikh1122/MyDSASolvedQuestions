@@ -4,27 +4,24 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # index=1
-        # for i in range(1,len(nums)):
-        #     if(nums[i]!=nums[i-1]):
-        #         nums[index]=nums[i]
-        #         index+=1
-        # return index      
-
-
-
-        # using 2 pointers approach
-
-
-        # i,j i will move from starting and j will act as an index of last uncommon and 
-        # i will be as incrementation
-
-        j=1
-
-        for i in range(1,len(nums)):
-            if(nums[i]!=nums[i-1]):
-                nums[j]=nums[i]
-                j+=1
-
-        print(nums)
-        return j
+        # brute force approach using extra space
+        new_arr=[]
+        for num in nums:
+            if num not in new_arr:
+                new_arr.append(num)
+        for i in range(len(new_arr)):
+            nums[i]=new_arr[i]
+            
+        return len(new_arr)
+        
+        
+        # # optimal using two pointers  
+        # l=1 
+        # r=l+1
+        # while r<=len(nums):
+        #     if nums[r]!=nums[l]:
+        #         nums[l]=nums[r]
+        #         l+=1
+        #     r+=1
+        # return l
+        
