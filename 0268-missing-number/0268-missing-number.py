@@ -22,16 +22,19 @@ class Solution(object):
 
 
         # by using bitwise operator xor
-        # res=nums[0]
-        # for i in range(1,len(nums)+1):
-        #     res^=nums[i]
-        # return res
+        res=0
+        for i in range(1,len(nums)+1):
+            res^=i
+        for num in nums:
+            res^=num
+        print(res)
+        return res
 
         # best optimal and logical solutionm 
-        res=len(nums)
-        for i in range(len(nums)):
-            res+=i-nums[i]
-        return res
+        # res=len(nums)
+        # for i in range(len(nums)):
+        #     res+=i-nums[i]
+        # return res
 
 
 
