@@ -37,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
@@ -113,6 +114,7 @@
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
