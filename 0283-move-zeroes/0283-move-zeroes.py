@@ -26,6 +26,7 @@ class Solution(object):
         #         nums[j]=arr[j]
         #     else:
         #         nums[j]=0
+        # my solution
         if len(nums)==0:
             return nums
         i=0 
