@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # brute fore by me 
         di=Counter(nums)
         max_number=0
         res=0
@@ -16,6 +17,7 @@ class Solution(object):
                 res=key
 
         return res
+
 
         
                 
