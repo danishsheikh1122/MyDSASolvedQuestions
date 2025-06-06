@@ -26,21 +26,8 @@ class Solution(object):
             if current_val<min_price:
                 min_price=current_val
             
+            # profit = current_val-min_price both will work same
 
             max_profit=max((current_val-min_price),max_profit)
 
         return max_profit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
