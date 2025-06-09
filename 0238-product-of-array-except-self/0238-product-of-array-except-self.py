@@ -22,17 +22,36 @@ class Solution(object):
         #     l[i]=l[i]*r[i]
         # return l
         # new approach from soultions
+        # res_arr=[1]*len(nums)
+        # l=1
+        # for i in range(len(nums)):
+        #     res_arr[i]*=l
+        #     l*=nums[i]
+        # r=1
+        # for i in range(len(nums)-1,-1,-1):
+        #     res_arr[i]*=r
+        #     r*=nums[i]
+        # return res_arr
         res_arr=[1]*len(nums)
-        l=1
+        l=r=1
         for i in range(len(nums)):
             res_arr[i]*=l
             l*=nums[i]
-        r=1
+        
         for i in range(len(nums)-1,-1,-1):
             res_arr[i]*=r
             r*=nums[i]
         return res_arr
         
+
+
+
+
+
+
+
+
+
 
 
 
