@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@
 | [0012-integer-to-roman](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
@@ -218,6 +220,7 @@
 | [0036-valid-sudoku](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0073-set-matrix-zeroes) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Recursion
 |  |
