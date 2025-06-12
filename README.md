@@ -251,6 +251,7 @@
 | [0067-add-binary](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
