@@ -307,4 +307,5 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
