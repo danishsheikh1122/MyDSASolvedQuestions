@@ -303,4 +303,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
