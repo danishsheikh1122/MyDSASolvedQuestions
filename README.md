@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0217-contains-duplicate) |
@@ -212,6 +213,7 @@
 | [0118-pascals-triangle](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1013-fibonacci-number) |
