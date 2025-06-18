@@ -20,14 +20,26 @@ class Solution(object):
         # print(res_str)
         # return res_str
         
-        min_len=min(len(word1),len(word2))
-        new_str=""
-        for i in range(min_len):
-            new_str+=word1[i]
-            new_str+=word2[i]
-        new_str+=word1[min_len:] if len(word1)>len(word2) else word2[min_len:]
-        # print(new_str)
-        return new_str
+        # min_len=min(len(word1),len(word2))
+        # new_str=""
+        # for i in range(min_len):
+        #     new_str+=word1[i]
+        #     new_str+=word2[i]
+        # new_str+=word1[min_len:] if len(word1)>len(word2) else word2[min_len:]
+        # # print(new_str)
+        # return new_str
+
+        minLen=min(len(word1),len(word2))
+        resStr=""
+        i=0
+        while i<minLen:
+            resStr+=word1[i]
+            resStr+=word2[i]
+            i+=1
+        
+        resStr+=word1[i:] if len(word1)>len(word2) else word2[i:]
+        return resStr
+
 
 
 
