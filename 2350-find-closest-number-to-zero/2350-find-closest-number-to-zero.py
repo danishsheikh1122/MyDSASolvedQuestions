@@ -11,11 +11,24 @@ class Solution(object):
         # if closest_num < 0 and abs(closest_num) in nums:
         #     return abs(closest_num)
         # return closest_num
-        max_number=nums[0]
+
+        # max_number=float('-inf')
+        # for i in nums:
+        #     if abs(i)<abs(max_number):
+        #         max_number=i
+        # if max_number<0 and abs(max_number) in nums:
+        #         return abs(max_number)
+        # else:
+        #         return max_number 
+
+        minVal=float("-inf")
         for i in nums:
-            if abs(i)<abs(max_number):
-                max_number=i
-        if max_number<0 and abs(max_number) in nums:
-                return abs(max_number)
-        else:
-                return max_number 
+            if abs(i)<abs(minVal):
+                minVal=i
+        if abs(minVal) in nums:
+            return abs(minVal) 
+        return minVal
+
+
+
+
