@@ -21,7 +21,7 @@ class Solution(object):
         # else:
         #         return max_number 
 
-        minVal=float("-inf")
+        minVal=float("inf")
         for i in nums:
             if abs(i)<abs(minVal):
                 minVal=i
