@@ -32,16 +32,40 @@ class Solution(object):
         #     res_arr[i]*=r
         #     r*=nums[i]
         # return res_arr
-        res_arr=[1]*len(nums)
-        l=r=1
-        for i in range(len(nums)):
-            res_arr[i]*=l
-            l*=nums[i]
+
+        # res_arr=[1]*len(nums)
+        # l=r=1
+        # for i in range(len(nums)):
+        #     res_arr[i]*=l
+        #     l*=nums[i]
         
+        # for i in range(len(nums)-1,-1,-1):
+        #     res_arr[i]*=r
+        #     r*=nums[i]
+        # return res_arr
+
+        # new_arr=[]
+        # for i in range(len(nums)):
+        #     prod=1
+        #     for j in range(len(nums)):
+        #         if i!=j:
+        #             prod*=nums[j]
+        #     new_arr.append(prod)
+        # return new_arr
+
+        res=[1]*len(nums)
+        prefix=1
+        for i in range(len(nums)):
+            res[i]*=prefix
+            prefix*=nums[i]
+        postfix=1
         for i in range(len(nums)-1,-1,-1):
-            res_arr[i]*=r
-            r*=nums[i]
-        return res_arr
+            res[i]*=postfix
+            postfix*=nums[i]
+        return res
+
+
+        
         
 
 
