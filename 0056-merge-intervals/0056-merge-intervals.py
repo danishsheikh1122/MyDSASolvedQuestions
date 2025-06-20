@@ -19,12 +19,16 @@ class Solution(object):
         prev=intervals[0]
         res=[]
 
-        for curr_int in intervals:
+        for curr_int in intervals[1:]:
             if curr_int[0]<=prev[1]:
                 prev[1]=max(curr_int[1],prev[1])
             else:
                 res.append(prev)
                 prev=curr_int
-        
         res.append(prev)
         return res
+            
+            
+            
+
+            
