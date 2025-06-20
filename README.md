@@ -203,6 +203,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
+| [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
+| [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
