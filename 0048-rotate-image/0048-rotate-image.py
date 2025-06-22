@@ -4,11 +4,31 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        len_arr=len(matrix)
 
-        for i in range(0,len_arr):
-            for j in range(i+1,len_arr):
+        # len_arr=len(matrix)
+
+        # for i in range(0,len_arr):
+        #     for j in range(i+1,len_arr):
+        #         matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
+        # for row in matrix:
+        #     row.reverse()
+        
+
+
+        for i in range(len(matrix)):
+            for j in range(i+1,len(matrix)):
                 matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
+
         for row in matrix:
             row.reverse()
-        
+
+
+
+
+
+
+
+
+
+
+
