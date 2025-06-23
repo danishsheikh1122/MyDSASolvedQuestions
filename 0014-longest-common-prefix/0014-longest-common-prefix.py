@@ -16,19 +16,27 @@ class Solution(object):
         # return s[:i]
 
         # # greg hog
+        # min_len=min(len(s) for s in strs)
+        # i=0
+        # while i < min_len:
+        #     for s in strs:
+        #         if s[i] != strs[0][i]:
+        #             '''
+        #             it compares it like this  m8 ik
+        #             "flower"[0] == 'f' ✅
+        #             "flow"[0] == 'f' ✅
+        #             "flight"[0] == 'f' ✅
+        #             '''
+        #             return s[:i]
+        #     i+=1
+        # return strs[0][:i]
+
+
         min_len=min(len(s) for s in strs)
         i=0
-        while i < min_len:
+        while i<min_len:
             for s in strs:
-                if s[i] != strs[0][i]:
-                    return s[:i]
+                if s[i]!=strs[0][i]:
+                    return s[:i]#exclusive as s[i] fails to match
             i+=1
         return strs[0][:i]
-
-
-
-
-
-
-
-
