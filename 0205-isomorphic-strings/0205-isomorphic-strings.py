@@ -24,7 +24,8 @@ class Solution(object):
         if len(s)!=len(t):
             return False
         dist,dits={},{}
-        for c1,c2 in zip(s,t):
+        for i in range(len(s)):
+            c1,c2=s[i],t[i]
             if ((c1 in dist and dist[c1]!=c2) or (c2 in dits and dits[c2]!=c1)):
                 return False
             dist[c1]=c2
