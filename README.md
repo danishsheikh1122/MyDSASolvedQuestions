@@ -47,6 +47,7 @@
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
+| [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -323,10 +326,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
