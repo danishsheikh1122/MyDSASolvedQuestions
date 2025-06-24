@@ -301,6 +301,7 @@
 | [0225-implement-stack-using-queues](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0838-design-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
