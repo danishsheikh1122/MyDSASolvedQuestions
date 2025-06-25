@@ -202,6 +202,7 @@
 | [0500-keyboard-row](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
