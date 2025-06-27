@@ -207,6 +207,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -252,6 +253,7 @@
 | [0503-next-greater-element-ii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
