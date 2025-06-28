@@ -52,6 +52,7 @@
 | [0941-sort-array-by-parity](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2350-find-closest-number-to-zero) |
@@ -85,6 +86,7 @@
 | [0837-most-common-word](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2486-most-frequent-even-element) |
 ## Two Pointers
@@ -164,6 +166,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0941-sort-array-by-parity) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/0451-sort-characters-by-frequency) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
