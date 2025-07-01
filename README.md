@@ -213,6 +213,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/danishsheikh1122/MyDSASolvedQuestions/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
